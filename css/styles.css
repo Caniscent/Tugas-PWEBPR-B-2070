@@ -1,8 +1,70 @@
-.bg-grey{
-    background-color: grey;
+.btn-yellow {
+    background-color: #E29A00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+  
+.btn-yellow:hover {
+    background-color: #5a3e00; /* Sedikit lebih gelap saat hover */
 }
 
-.card-img-top{
-    max-width: 100px;
-    margin: auto;
+.btn-green {
+    background-color: #7EB782;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
 }
+  
+.btn-green:hover {
+    background-color: #446c46; /* Sedikit lebih gelap saat hover */
+}
+
+.btn-red {
+    background-color: #FF5573;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+  
+.btn-red:hover {
+    background-color: #58222c; /* Sedikit lebih gelap saat hover */
+}
+  
+.btn-blue {
+    background-color: #3279AF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .btn-blue:hover {
+    background-color: #01345b; /* Sedikit lebih gelap saat hover */
+  }
+  
+  
+.btn-beige {
+    background-color: #D8D6C1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .btn-beige:hover {
+    background-color: #cdc896; /* Sedikit lebih gelap saat hover */
+  }
+  
