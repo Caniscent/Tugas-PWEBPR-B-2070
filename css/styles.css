@@ -68,3 +68,6 @@
     background-color: #cdc896; /* Sedikit lebih gelap saat hover */
   }
   
+footer{
+  z-index: 10;
+}
